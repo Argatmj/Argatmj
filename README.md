@@ -2,10 +2,6 @@
 
 ###
 
-<p align="center"></p>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="12" />
@@ -38,20 +34,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/argatmj/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="argaatmj@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Argatmj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-  </a>
 </div>
 
 ###
